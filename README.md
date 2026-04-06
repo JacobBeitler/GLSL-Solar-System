@@ -1,5 +1,5 @@
-# GLSL-Solar-System
-GLSL Program that displays a solar system Where the planets rotate, have shadows, and circle around the sun.
+# GLSL-OpenGL-Solar-System
+GLSL/OpenGL Program that displays a solar system where the planets rotate, have shadows, and circle around the sun.
 
 
 <img src="https://github.com/user-attachments/assets/a3626f96-7a7b-4016-9fc6-fa5ae4815a2d" width="100%" />
