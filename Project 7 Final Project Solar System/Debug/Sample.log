@@ -1,0 +1,35 @@
+﻿  sample.cpp
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(535,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(536,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(537,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(538,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(550,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(551,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(552,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(553,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(565,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(566,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(567,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(568,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(580,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(581,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(582,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(583,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(595,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(596,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(597,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(598,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(610,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(611,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(612,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(613,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(625,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(626,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(627,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(628,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(640,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(641,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(642,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\sample.cpp(643,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\CS-550\GLSL Solar System\Project 7 Final Project Solar System\Debug\Sample.exe
