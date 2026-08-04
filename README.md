@@ -1,5 +1,5 @@
-# GLSL-OpenGL-Solar-System
-GLSL/OpenGL Program that displays a solar system where the planets rotate, have shadows, and circle around the sun.
+# OpenGL-Solar-System
+"Real-time OpenGL solar-system visualization — 9 texture-mapped, orbiting bodies with Kepler-scaled orbital periods, correct retrograde rotation for Venus/Uranus, fixed-function point lighting, and a starfield skybox.
 
 
 <img src="https://github.com/user-attachments/assets/a3626f96-7a7b-4016-9fc6-fa5ae4815a2d" width="100%" />
